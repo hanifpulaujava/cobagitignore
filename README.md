@@ -1,0 +1,2 @@
+# cobagitignore
+tesGitignore
